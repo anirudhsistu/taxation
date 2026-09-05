@@ -1,0 +1,32 @@
+2026-08-29 19:39:39,852 | INFO     | TaxAPI | Received tax calculation request: gross_income=1200000.0 age=38
+2026-08-29 19:39:39,853 | INFO     | TaxCore | Section 80C: deduction claimed Rs 150000.00
+2026-08-29 19:39:39,853 | INFO     | TaxCore | Section 80D: deduction claimed Rs 25000.00
+2026-08-29 19:39:39,853 | INFO     | TaxCore | Section 24: deduction claimed Rs 0.00
+2026-08-29 19:39:39,854 | INFO     | TaxCore | Section 80E: deduction claimed Rs 0.00
+2026-08-29 19:39:39,854 | INFO     | TaxCore | Section 80G: deduction claimed Rs 0.00
+2026-08-29 19:39:39,854 | INFO     | TaxCore | Section 80TTA: deduction claimed Rs 0.00
+2026-08-29 19:39:39,854 | INFO     | TaxCore | gross=1200000.00 deductions=175000.00 taxable=975000.00 base_tax=107500.00 rebate=0.00 cess=4300.00 total_tax=111800.00
+2026-08-29 20:02:19,725 | INFO     | TaxAPI | Received tax calculation request: gross_income=1200000.0 age=19
+2026-08-29 20:02:19,726 | INFO     | TaxCore | Section 80C: deduction claimed Rs 150000.00
+2026-08-29 20:02:19,726 | INFO     | TaxCore | Section 80D: deduction claimed Rs 25000.00
+2026-08-29 20:02:19,727 | INFO     | TaxCore | Section 24: deduction claimed Rs 0.00
+2026-08-29 20:02:19,727 | INFO     | TaxCore | Section 80E: deduction claimed Rs 0.00
+2026-08-29 20:02:19,727 | INFO     | TaxCore | Section 80G: deduction claimed Rs 0.00
+2026-08-29 20:02:19,728 | INFO     | TaxCore | Section 80TTA: deduction claimed Rs 0.00
+2026-08-29 20:02:19,728 | INFO     | TaxCore | gross=1200000.00 deductions=175000.00 taxable=975000.00 base_tax=107500.00 rebate=0.00 cess=4300.00 total_tax=111800.00
+2026-08-29 20:12:01,093 | INFO     | TaxAPI | Received tax calculation request: gross_income=1200000.0 age=50
+2026-08-29 20:12:01,095 | INFO     | TaxCore | Section 80C: deduction claimed Rs 150000.00
+2026-08-29 20:12:01,095 | INFO     | TaxCore | Section 80D: deduction claimed Rs 25000.00
+2026-08-29 20:12:01,095 | INFO     | TaxCore | Section 24: deduction claimed Rs 150000.00
+2026-08-29 20:12:01,095 | INFO     | TaxCore | Section 80E: deduction claimed Rs 0.00
+2026-08-29 20:12:01,095 | INFO     | TaxCore | Section 80G: deduction claimed Rs 0.00
+2026-08-29 20:12:01,096 | INFO     | TaxCore | Section 80TTA: deduction claimed Rs 0.00
+2026-08-29 20:12:01,096 | INFO     | TaxCore | gross=1200000.00 deductions=325000.00 taxable=825000.00 base_tax=77500.00 rebate=0.00 cess=3100.00 total_tax=80600.00
+2026-09-01 17:02:00,599 | INFO     | TaxAPI | Received tax calculation request: gross_income=900000.0 age=30
+2026-09-01 17:02:00,617 | INFO     | TaxCore | Section 80C: deduction claimed Rs 150000.00
+2026-09-01 17:02:00,617 | INFO     | TaxCore | Section 80D: deduction claimed Rs 25000.00
+2026-09-01 17:02:00,618 | INFO     | TaxCore | Section 24: deduction claimed Rs 0.00
+2026-09-01 17:02:00,618 | INFO     | TaxCore | Section 80E: deduction claimed Rs 0.00
+2026-09-01 17:02:00,618 | INFO     | TaxCore | Section 80G: deduction claimed Rs 0.00
+2026-09-01 17:02:00,618 | INFO     | TaxCore | Section 80TTA: deduction claimed Rs 0.00
+2026-09-01 17:02:00,618 | INFO     | TaxCore | gross=900000.00 deductions=175000.00 taxable=675000.00 base_tax=47500.00 rebate=0.00 cess=1900.00 total_tax=49400.00
